@@ -1,4 +1,7 @@
 # List of all contributors
 
 - KikiManjaro 
-Djibrill 
+- Djibrill 
+- Anis
+- Aboubacar
+- Charbel AKPLOGAN
