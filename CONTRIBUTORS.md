@@ -1,6 +1,7 @@
-²# List of all contributors
+# List of all contributors
 
-- KikiManjaro
+- KikiManjaro 
+- Djibrill 
 - Anis
--Aboubacar
--Charbel AKPLOGAN
+- Aboubacar
+- Charbel AKPLOGAN
