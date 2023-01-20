@@ -12,3 +12,4 @@
 - Mahroum Amayes
 - Vincent Wauters
 - Benoit Wauters
+- Menga kamdjo stéphane
