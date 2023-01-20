@@ -10,6 +10,7 @@
 - lyes kireche
 - khalef 
 - Mahroum Amayes
+- Geoffrey Riviere
 -lionel yvan
 - Allan Ekomie
 - Menga kamdjo stéphane
