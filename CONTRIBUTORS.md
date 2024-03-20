@@ -20,3 +20,4 @@
 -lionel yvan
 - Allan Ekomie
 - Menga kamdjo stéphane
+- Bidossessi Idjouola
