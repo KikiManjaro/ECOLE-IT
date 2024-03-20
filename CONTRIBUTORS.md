@@ -21,3 +21,5 @@
 - Allan Ekomie
 - Menga kamdjo stéphane
 - Claude Athena
+- TSIGUIE PAGUI TATIANA LORRAINE
+- Bidossessi Idjouola
