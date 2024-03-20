@@ -17,5 +17,10 @@
 - Menga kamdjo stéphane
 - Mathis Capart
 - Geoffrey Riviere
--lio
--jean marcelle
+- lionel yvan
+- Allan Ekomie
+- Menga kamdjo stéphane
+- Claude Athena
+- TSIGUIE PAGUI TATIANA LORRAINE
+- Bidossessi Idjouola
+- jean marcelle
