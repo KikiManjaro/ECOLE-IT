@@ -1,5 +1,6 @@
 # List of all contributors
 
+-chantale
 - KikiManjaro 
 - Djibrill 
 - Anis
