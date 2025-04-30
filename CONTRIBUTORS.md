@@ -1,6 +1,5 @@
-# List of all contributors
-- KikiManjaro 
-- Djibrill 
+- KikiManjaro
+- Djibrill
 - Anis
 - hakim azerouk
 - Aboubacar
@@ -28,3 +27,4 @@
 - Thevine Malebe
 - chantale
 - Donald Dongmo
+- mirande
