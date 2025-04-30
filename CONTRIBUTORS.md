@@ -1,5 +1,3 @@
-# List of all contributors
-
 - KikiManjaro
 - Djibrill
 - Anis
@@ -25,4 +23,8 @@
 - Bidossessi Idjouola
 - jean marcelle
 - Houssainatou
--mirande
+- SADEU Yann Bradley
+- Thevine Malebe
+- chantale
+- Donald Dongmo
+- mirande
