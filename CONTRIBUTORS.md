@@ -1,6 +1,4 @@
 # List of all contributors
-
--chantale
 - KikiManjaro 
 - Djibrill 
 - Anis
@@ -9,7 +7,7 @@
 - Charbel AKPLOGAN
 - Mahroum Amayes
 - lyes kireche
-- khalef 
+- khalef
 - Mahroum Amayes
 - Louboto Jules Cesar
 - Antony
@@ -26,3 +24,6 @@
 - Bidossessi Idjouola
 - jean marcelle
 - Houssainatou
+- SADEU Yann Bradley
+- Thevine Malebe
+- chantale
