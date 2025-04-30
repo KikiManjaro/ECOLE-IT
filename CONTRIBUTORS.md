@@ -1,14 +1,14 @@
 # List of all contributors
 
-- KikiManjaro 
-- Djibrill 
+- KikiManjaro
+- Djibrill
 - Anis
 - hakim azerouk
 - Aboubacar
 - Charbel AKPLOGAN
 - Mahroum Amayes
 - lyes kireche
-- khalef 
+- khalef
 - Mahroum Amayes
 - Louboto Jules Cesar
 - Antony
@@ -25,3 +25,4 @@
 - Bidossessi Idjouola
 - jean marcelle
 - Houssainatou
+- sidje defo
