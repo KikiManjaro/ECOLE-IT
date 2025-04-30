@@ -25,6 +25,7 @@
 - Houssainatou
 - SADEU Yann Bradley
 - Thevine Malebe
+- mirande
 - chantale
 - Donald Dongmo
-- mirande
+- sidje defo
