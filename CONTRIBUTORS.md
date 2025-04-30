@@ -1,7 +1,6 @@
 # List of all contributors
-
-- KikiManjaro
-- Djibrill
+- KikiManjaro 
+- Djibrill 
 - Anis
 - hakim azerouk
 - Aboubacar
@@ -27,3 +26,4 @@
 - Houssainatou
 - SADEU Yann Bradley
 - Thevine Malebe
+- chantale
