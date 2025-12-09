@@ -31,3 +31,5 @@
 - sidje defo
 - Ashley 
 - cecilia sergie
+- Bogdane Braoun
+- Darwin Priso
