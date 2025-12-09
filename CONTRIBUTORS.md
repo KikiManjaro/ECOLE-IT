@@ -32,3 +32,4 @@
 - Ashley 
 - Bogdane Braoun
 - Tiago Ramos 
+- Darwin Priso
