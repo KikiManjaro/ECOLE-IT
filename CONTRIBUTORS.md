@@ -33,3 +33,7 @@
 - cecilia sergie
 - Bogdane Braoun
 - Darwin Priso
+- Bamou Leslie
+- Tiago Ramos 
+- Darwin Priso
+- Level sony Dilane
