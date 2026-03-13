@@ -30,8 +30,13 @@
 - Donald Dongmo
 - sidje defo
 - Ashley 
+- cecilia sergie
+- Damesys
 - Bogdane Braoun
+- Darwin Priso
+- Bamou Leslie
 - Tiago Ramos 
 - Darwin Priso
 - Level sony Dilane
 - Laouel Mahaman Laouel Kader
+- Mwanashima saleh celestin
