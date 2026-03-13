@@ -32,3 +32,6 @@
 - Ashley 
 - Bogdane Braoun
 - Bamou Leslie
+- Tiago Ramos 
+- Darwin Priso
+- Level sony Dilane
