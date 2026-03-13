@@ -30,8 +30,10 @@
 - Donald Dongmo
 - sidje defo
 - Ashley 
+- cecilia sergie
 - Damesys
 - Bogdane Braoun
+- Darwin Priso
 - Bamou Leslie
 - Tiago Ramos 
 - Darwin Priso
