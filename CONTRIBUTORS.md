@@ -30,6 +30,7 @@
 - Donald Dongmo
 - sidje defo
 - Ashley 
+- Damesys
 - Bogdane Braoun
 - Bamou Leslie
 - Tiago Ramos 
